@@ -1,0 +1,154 @@
+body{
+    background-color: red;
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  .h{
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+  }
+  .d{
+    text-align: center;
+  }
+  .C{
+      margin: 50px;
+      text-align: center;
+      line-height: 2;
+      position: relative;
+      bottom: 240px;
+
+
+  }
+  .q{
+      margin: 50px;
+      text-align: center;
+      line-height: 2;
+      position: relative;
+      bottom: 238px;
+      
+  }
+
+  .link{
+      text-align: center;
+      background-color: #66bfbf;
+  }
+
+  .dil{
+      width: 300px;
+      height: 300Px;
+      position: relative;
+      left: 38%;
+
+  }
+  .chili{
+    width: 300px;
+    height: 300Px;
+    position: relative;
+    left: 900px;
+
+  }
+  .read{
+    width: 300px;
+    height: 300Px;
+
+  }
+
+.language{
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    bottom: 215px;
+
+
+
+}
+.glass{
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    bottom: 220px;
+}
+
+.am{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+.an{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+.cl{
+  width: 1200px;
+  height: 200px;
+  position: relative;
+  left: auto;
+}
+
+.mo{
+  width: 1200px;
+  height: 450px;
+}
+.first{
+  background-color: gray;
+}
+.energy{
+  text-align: center;
+  color: white;
+  font-family: 'Pacifico', cursive;
+}
+.hg{
+  text-align: center;
+  color: blue;
+  font-family: 'Pacifico', cursive;
+}
+
+.word{
+  color: blue;
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:27px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:18px 76px;
+	text-decoration:none;
+	text-shadow:0px -2px 0px #2f6627;
+  position: relative;
+  left: 500px;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.gt{
+  text-align: center;
+  color: rgb(206, 255, 71);
+
+}
+.iy{
+  text-align: center;
+  color: rgb(123, 255, 71);
+
+}
+.lo{
+  text-align: center;
+}
+hr{
+  border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    width: 5%;
+}
